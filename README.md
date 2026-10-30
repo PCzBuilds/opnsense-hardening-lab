@@ -52,4 +52,4 @@ opnsense-hardening-lab/
 
 Short version: baseline measurement, one change, test with the same measurement, rollback. Details and evidence rules: [docs/method.md](docs/method.md).
 
-Exercises done in 2026. Author: -----[ Name ]-----
+Exercises done in 2026. Author: PCzBuilds
